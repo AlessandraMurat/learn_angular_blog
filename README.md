@@ -1,27 +1,17 @@
-# TutorialAngular
+# Blog de Estudo Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
+![blog-angular](https://github.com/user-attachments/assets/c538bd8b-29f5-4ed2-99c3-1cff9eaa3de3)
 
-## Development server
+É um site educacional desenvolvido com o framework Angular como parte do curso de Desenvolvimento Fullstack da SoulCode.  
+Seu objetivo é apresentar uma introdução ao Angular, explicar suas principais funcionalidades e fornecer uma breve documentação de acordo com o que foi aprendido no módulo.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+🔗 **Acesse o site publicado aqui**:  
+👉 [https://tutorial-angular-9hqsbv40g-alessandramurat.vercel.app/principal](https://tutorial-angular-9hqsbv40g-alessandramurat.vercel.app/principal)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🚀 Tecnologias Utilizadas
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Angular 
+- TypeScript
+- HTML5 + CSS3
+- Vercel (para deploy)
